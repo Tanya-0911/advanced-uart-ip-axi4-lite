@@ -1,0 +1,16 @@
+# Simulation waveforms
+*.vcd
+*.fst
+
+# Compiled simulation files
+sim/*_tb
+sim/*_test
+sim/baud_tb
+sim/baud_test
+
+# Temporary files
+*.log
+*.out
+*.tmp
+*.swp
+*~
