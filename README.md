@@ -78,7 +78,6 @@ The initial implementation uses the standard UART 8N1 frame format:
                       |
               Interrupt Controller
 ```
-
 *Conceptual architecture. Final integration is under development.*
 
 ## Development Progress
